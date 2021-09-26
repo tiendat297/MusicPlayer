@@ -26,12 +26,6 @@ const app = {
             image: './assets/img/buocquamuacodon.jpg'
         },
         {
-            name: 'Thê Lương',
-            singer: 'Phúc Chinh',
-            path: './assets/music/song1.mp3',
-            image: './assets/img/theluong.jpg'
-        },
-        {
             name: 'Sài Gòn đau lòng quá',
             singer: 'Hứa Kim Tuyền',
             path: './assets/music/song2.mp3',
