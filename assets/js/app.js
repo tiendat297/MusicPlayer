@@ -22,8 +22,8 @@ const app = {
         {
             name: 'Mắt Đen - cover',
             singer: 'Đạt',
-            path: './assets/music/matden.mp3',
-            image: './assets/img/1482997382138_600.jpg'
+            path: './assets/music/matden_cover.mp3',
+            image: './assets/img/buocquamuacodon.jpg'
         },
         {
             name: 'Bước qua mùa cô đơn',
