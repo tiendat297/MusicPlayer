@@ -20,6 +20,12 @@ const app = {
     isRepeat: false,
     songs: [
         {
+            name: 'Mắt Đen - cover',
+            singer: 'Đạt',
+            path: './assets/music/matden.m4a',
+            image: './assets/img/1482997382138_600.jpg'
+        },
+        {
             name: 'Bước qua mùa cô đơn',
             singer: 'Vũ',
             path: './assets/music/BuocQuaMuaCoDon-Vu-6879419.mp3',
